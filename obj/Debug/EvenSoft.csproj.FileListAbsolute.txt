@@ -1,0 +1,8 @@
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenSoft.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenSoft.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenSoft.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenSoft.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenSoft.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenSoft.pdb
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenSoft.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenSoft.pdb

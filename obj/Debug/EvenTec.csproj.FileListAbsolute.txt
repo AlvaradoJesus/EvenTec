@@ -1,0 +1,22 @@
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenTec.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenTec.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\bin\Debug\EvenTec.pdb
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenTec.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenTec.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenTec.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenSoft\obj\Debug\EvenTec.pdb
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\bin\Debug\EvenTec.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.pdb
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\bin\Debug\EvenTec.exe
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\bin\Debug\EvenTec.pdb
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenSoft.frmPlantilla.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.Views.Public.Login.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.Views.Public.Registro.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\Debug\EvenTec.Views.Public.InfoEvento.resources
+C:\Users\migel\Downloads\EvenTec (1)\EvenTec\bin\Debug\EvenTec.exe.config
+C:\Users\migel\Downloads\EvenTec (1)\EvenTec\obj\Debug\EvenTec.exe
+C:\Users\migel\Downloads\EvenTec (1)\EvenTec\obj\Debug\EvenTec.pdb
