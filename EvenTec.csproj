@@ -70,6 +70,12 @@
     <Compile Include="Controladores\Sede.cs" />
     <Compile Include="Controladores\TipoUsuario.cs" />
     <Compile Include="Controladores\Usuario.cs" />
+    <Compile Include="Views\Public\Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Public\Index.Designer.cs">
+      <DependentUpon>Index.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Public\InfoEvento.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Views\Public\Index.resx">
+      <DependentUpon>Index.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Public\InfoEvento.resx">
       <DependentUpon>InfoEvento.cs</DependentUpon>
     </EmbeddedResource>
