@@ -20,3 +20,6 @@ C:\Users\Jesus\Documents\Visual Studio 2015\Projects\FIS-Huacasoft\EvenTec\obj\D
 C:\Users\migel\Downloads\EvenTec (1)\EvenTec\bin\Debug\EvenTec.exe.config
 C:\Users\migel\Downloads\EvenTec (1)\EvenTec\obj\Debug\EvenTec.exe
 C:\Users\migel\Downloads\EvenTec (1)\EvenTec\obj\Debug\EvenTec.pdb
+C:\Users\migel\Desktop\EvenTec\bin\Debug\EvenTec.exe.config
+C:\Users\migel\Desktop\EvenTec\obj\Debug\EvenTec.exe
+C:\Users\migel\Desktop\EvenTec\obj\Debug\EvenTec.pdb
